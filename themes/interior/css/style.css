@@ -1,0 +1,112 @@
+.navbar {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  border: none;
+}
+
+.logo img {
+  width: 30px;
+  margin-left: 30px;
+}
+
+.navbar-collapse {
+  float: right;
+}
+
+.js-quickedit-page-title  {
+  text-align: center;
+  letter-spacing: 2.5px;
+}
+
+.views-col {
+  padding: 0 30px;
+}
+
+a {
+  font-size: 14px;
+}
+
+.views-field-title {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.views-field-title a {
+  color: #000;
+}
+
+.field--name-field-image img {
+  margin: 0 auto;
+  max-height: 800px;
+  width: auto;
+  padding-bottom: 20px
+}
+
+.field--name-bundle-fieldnode {
+  text-align: center;
+  padding-top: 20px;
+  color: goldenrod;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+}
+
+.field--name-node-title {
+  letter-spacing: 2.5px;
+  border-bottom: 1px solid black;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.field--name-body {
+  font: 15px Georgia, serif;
+}
+
+.field--name-node-post-date {
+  color: #a2a2a2;
+  font: italic bold 12px Georgia, serif;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.field--name-field-home-topics {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.field--name-field-role-of-person- {
+  padding: 20px 0;
+}
+
+.block-block-content {
+  text-align: center;
+}
+
+.node--type-event {
+   padding-bottom: 20px;
+   border-bottom: black solid 1px;
+   margin-bottom: 20px;
+}
+
+
+.node--type-event:last-child {
+  border-bottom: none;
+}
+
+.group-left {
+  width: 25% !important;
+  padding-right: 45px;
+}
+
+.group-right {
+  width: 75% !important;
+  text-align: justify;
+}
+
+
+.node--view-mode-teaser .field--name-node-author {
+  font-weight: bold;
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
